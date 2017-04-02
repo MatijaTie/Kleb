@@ -1,0 +1,24 @@
+2017-03-24 13:24:23,292 INFO [main] h.t.p.j.g.Glavna [Glavna.java:24] Korisnik je pokrenuo aplikaciju
+
+2017-03-24 13:24:23,292 DEBUG [main] h.t.p.j.g.Glavna [Glavna.java:28] Generiran je random broj :33
+
+2017-03-24 13:24:32,632 INFO [main] h.t.p.j.g.Glavna [Glavna.java:13] Unesen je premali broj
+
+2017-03-24 13:24:34,975 INFO [main] h.t.p.j.g.Glavna [Glavna.java:17] Unesen je preveliki broj
+
+2017-03-24 13:24:36,202 INFO [main] h.t.p.j.g.Glavna [Glavna.java:17] Unesen je preveliki broj
+
+2017-03-24 13:24:37,399 INFO [main] h.t.p.j.g.Glavna [Glavna.java:13] Unesen je premali broj
+
+2017-03-24 13:24:39,329 INFO [main] h.t.p.j.g.Glavna [Glavna.java:49] Pogodjen je broj
+
+2017-03-24 13:26:20,166 INFO [main] h.t.p.j.g.Glavna [Glavna.java:24] Korisnik je pokrenuo aplikaciju
+
+2017-03-24 13:26:20,166 DEBUG [main] h.t.p.j.g.Glavna [Glavna.java:28] Generiran je random broj :40
+
+2017-03-24 13:26:28,580 INFO [main] h.t.p.j.g.Glavna [Glavna.java:17] Unesen je preveliki broj
+
+2017-03-24 13:26:29,729 INFO [main] h.t.p.j.g.Glavna [Glavna.java:49] Pogodjen je broj
+
+2017-03-24 13:26:29,729 INFO [main] h.t.p.j.g.Glavna [Glavna.java:51] Kraj
+
